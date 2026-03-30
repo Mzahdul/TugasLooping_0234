@@ -58,3 +58,8 @@ void tampilPrima() {
         cout << n << " bukan bilangan prima." << endl;
     }
 }
+
+// Prosedur untuk menampilkan hasil cek Fibonacci
+void tampilFibonacci() {
+    inputAngka();
+}
