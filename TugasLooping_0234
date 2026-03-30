@@ -10,3 +10,11 @@ void inputAngka() {
     cout << "Masukkan sebuah angka: ";
     cin >> n;
 }
+
+// Function untuk mengecek bilangan prima (menggunakan while loop)
+bool cekPrima(int x) {
+    if (x <= 1) {
+        return false;
+    
+    }
+}
