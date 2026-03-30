@@ -68,3 +68,9 @@ void tampilFibonacci() {
         cout << n << " bukan bagian dari deret Fibonacci." << endl;
     }
 }
+
+// Function untuk menampilkan menu
+void menu() {
+    cout << "\n=== MENU PROGRAM ===" << endl;
+    cout << "1. Cek Bilangan Prima" << endl;
+}
