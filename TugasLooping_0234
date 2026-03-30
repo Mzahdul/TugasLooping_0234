@@ -77,3 +77,10 @@ void menu() {
     cout << "0. Keluar" << endl;
     cout << "Pilihan Anda: ";
 }
+
+int main() {
+    while (true) {
+        menu();
+        cin >> pilihan;
+    }
+}
