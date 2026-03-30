@@ -31,5 +31,9 @@ int i = 2;
     // Function untuk mengecek apakah termasuk deret Fibonacci
 bool cekFibonacci(int x) {
     int a = 0, b = 1, c;
-    
-}
+
+}   
+
+if (x == 0 || x == 1) {
+        return true;
+    }
