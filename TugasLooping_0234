@@ -89,6 +89,9 @@ int main() {
             case 2:
                 tampilFibonacci();
                 break;
+            case 0:
+                cout << "Terima kasih telah menggunakan program ini." << endl;
+                return 0;
             
         }
     }
