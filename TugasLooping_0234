@@ -27,3 +27,9 @@ int i = 2;
         i++;
     }
     return true;
+
+    // Function untuk mengecek apakah termasuk deret Fibonacci
+bool cekFibonacci(int x) {
+    int a = 0, b = 1, c;
+    
+}
